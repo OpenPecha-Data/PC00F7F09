@@ -1,0 +1,27 @@
+id: PC00F7F09
+initial_creation_type: input
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA3JT13378
+  instance_id: http://purl.bdrc.io/resource/IE3JT13378
+  collection_id: http://purl.bdrc.io/resource/PR0ET010
+  language_id: None
+  title:
+    bo:
+    - མངོན་རྟོགས་རྒྱན་གྱི་ས་བཅད་སྣང་བྱེད་སྒྲོན་མེ་གཞུང་དང་བཅས་པ་དང་། ཤེར་ཕྱིན་སྐབས་བརྒྱད་ཀྱི་སྟོང་ཐུན།
+      དབུ་མ་ཆོས་དབྱིངས་བསྟོད་པའི་རྣམ་བཤད་བཅས།
+  alt_title: {}
+  author: http://purl.bdrc.io/resource/P66
+  publisher: Various
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    747d4db08c9d4029b56b5b00dc286b20:
+      title: ༄༅།་།མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་
+      volume_number: 1
+      base_file: UT3JT13378_001_0004.txt
+      reference: http://purl.bdrc.io/resource/VLF134B67DD9205769
+      image_group: null
+      quality: null
+  reproductionOf: []
+created_at: '2021-12-31T08:21:21.987926'
+last_modified_at: '2021-12-31T08:21:21.987933'
